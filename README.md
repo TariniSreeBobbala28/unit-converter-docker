@@ -25,5 +25,5 @@ A professional, interactive unit conversion tool built with **Python** and **Str
 ### Steps
 1. **Clone the repository:**
    ```bash
-   git clone <your-github-repo-link>
+   git clone (https://github.com/TariniSreeBobbala28/unit-converter-docker.git)
    cd docker_project
